@@ -6,8 +6,8 @@
 
 **A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**
 
-## Info
-In this repository you can find the reference code used for the technical validation of breathing and cardiac signals sparation. In addition, a script for data visualization is also included in the repository which can be used by configuring the subject and/or scenarios which shall be viewed.
+## Code Info
+In this repository you can find the reference code used for the technical validation of breathing and cardiac signals sparation ([`VS_Validation`](https://github.com/Rc-W024/VS_DATASET/blob/main/VS_Validation.m)). In addition, the script [`PlotVS`](https://github.com/Rc-W024/VS_DATASET/blob/main/PlotVS.m) for data visualization is also included in the repository which can be used by configuring the subject and/or scenarios which shall be viewed.
 
 The code was written and tested using MATLAB R2024b for Microsoft Windows.
 
