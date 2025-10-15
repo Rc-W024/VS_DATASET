@@ -28,6 +28,8 @@ VITALSENSE_120_DATASET
 │   │   Reference Parameters
 ```
 
+The dataset contains measurements from 24 subjects, with a total of 4 minutes per subject across the *Resting* and *Apnea* scenarios. The data and parameters are stored in lightweight `.mat` files that can be read directly in MATLAB, and the entire dataset is about 31 MB.
+
 ### Code
 In this repository you can find the reference code used for the technical validation of breathing and cardiac signals sparation ([`VS_Validation`](https://github.com/Rc-W024/VS_DATASET/blob/main/VS_Validation.m)) and synchronization study ([`SynchValidation`](https://github.com/Rc-W024/VS_DATASET/blob/main/SynchValidation.m)). In addition, the script [`PlotVS`](https://github.com/Rc-W024/VS_DATASET/blob/main/PlotVS.m) for data visualization is also included in the repository which can be used by configuring the subject and/or scenarios which shall be viewed.
 
