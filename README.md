@@ -6,7 +6,29 @@
 
 **A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**
 
-## Code Info
+## Info
+### Dataset
+The file structure is
+```
+VITALSENSE_120_DATASET
+└───VS01
+│   │   VS01_Resting.mat
+│   │   VS01_Resting_Mindray.mat
+│   │   VS01_Apnea.mat
+│   │   VS01_Apnea_Mindray.mat
+...
+└───VS24
+│   │   VS24_Resting.mat
+│   │   VS24_Resting_Mindray.mat
+│   │   VS24_Apnea.mat
+│   │   VS24_Apnea_Mindray.mat
+└───Subject Information.xlsx
+│   │   Subject Info
+│   │   Radar Parameters 
+│   │   Reference Parameters
+```
+
+### Code
 In this repository you can find the reference code used for the technical validation of breathing and cardiac signals sparation ([`VS_Validation`](https://github.com/Rc-W024/VS_DATASET/blob/main/VS_Validation.m)) and synchronization study ([`SynchValidation`](https://github.com/Rc-W024/VS_DATASET/blob/main/SynchValidation.m)). In addition, the script [`PlotVS`](https://github.com/Rc-W024/VS_DATASET/blob/main/PlotVS.m) for data visualization is also included in the repository which can be used by configuring the subject and/or scenarios which shall be viewed.
 
 The code was written and tested using MATLAB R2024b for Microsoft Windows.
