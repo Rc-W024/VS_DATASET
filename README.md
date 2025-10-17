@@ -11,21 +11,21 @@
 The file structure is
 ```
 VITALSENSE_120_DATASET
-├─VS01
-│  ├─VS01_Resting.mat
-│  ├─VS01_Resting_Mindray.mat
-│  ├─VS01_Apnea.mat
-│  └─VS01_Apnea_Mindray.mat
+├── VS01
+│  ├── VS01_Resting.mat
+│  ├── VS01_Resting_Mindray.mat
+│  ├── VS01_Apnea.mat
+│  └── VS01_Apnea_Mindray.mat
 ...
-├─VS24
-│  ├─VS24_Resting.mat
-│  ├─VS24_Resting_Mindray.mat
-│  ├─VS24_Apnea.mat
-│  └─VS24_Apnea_Mindray.mat
-└─Subject Information.xlsx
-   ├─Subject Info
-   ├─Radar Parameters 
-   └─Reference Parameters
+├── VS24
+│  ├── VS24_Resting.mat
+│  ├── VS24_Resting_Mindray.mat
+│  ├── VS24_Apnea.mat
+│  └── VS24_Apnea_Mindray.mat
+└── Subject Information.xlsx
+   ├── Subject Info
+   ├── Radar Parameters 
+   └── Reference Parameters
 ```
 
 The dataset contains measurements from 24 subjects, with a total of 4 minutes per subject across the *Resting* and *Apnea* scenarios. The data and parameters are stored in lightweight `.mat` files that can be read directly in MATLAB, and the entire dataset is about 31 MB.
