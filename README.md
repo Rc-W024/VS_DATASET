@@ -6,7 +6,7 @@
 
 **A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**
 
-<img width=15% alt="image" src="https://github.com/user-attachments/assets/7ced65a8-5d6d-4b91-a794-b767a0dfafbf"/>
+<img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 
 <br>
 
