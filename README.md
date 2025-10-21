@@ -6,6 +6,9 @@
 
 **A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**
 
+### Open Access
+Link to the IEEE *DataPort* database: *Coming soon...*
+
 ## Info
 ### Dataset
 The file structure is
@@ -36,8 +39,5 @@ In this repository you can find the reference code used for the technical valida
 The code was written and tested using MATLAB R2024b for Microsoft Windows.
 
 ## FYI
-### Open Access
-Link to the IEEE *DataPort* database: *Coming soon...*
-
-### Citation
+### Dataset citation
 🚧 *Under Construction...* 🚧
