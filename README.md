@@ -8,7 +8,7 @@
 
 <img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 
-**Link to the IEEE *DataPort* database:** *Coming soon...*
+**Link to the IEEE *DataPort* database:** **https://doi.org/**
 
 ## Info
 ### Dataset
