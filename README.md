@@ -8,7 +8,7 @@
 
 <img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 
-**Link to the IEEE *DataPort* database:** **https://doi.org/**
+**Link to the IEEE *DataPort* database:** **https://doi.org/10.21227/wq68-sv85**
 
 ## Info
 ### Dataset
@@ -41,8 +41,15 @@ The code was written and tested using MATLAB R2024b for Microsoft Windows.
 
 ## FYI
 ### Dataset citation
-```latex
-
+```bibtex
+@data{wq68-sv85-25,
+  doi={10.21227/wq68-sv85},
+  url={https://doi.org/10.21227/wq68-sv85},
+  author={Ruochen Wu and Laura Miro and Antoni Broquetas and Albert Aguasca and Cosme Garcia and Montse Najar},
+  publisher={IEEE Dataport},
+  title={A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals},
+  year={2025}
+}
 ```
 
 ### Paper citation
