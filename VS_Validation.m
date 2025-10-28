@@ -26,6 +26,7 @@ Sampling.Fs=1.3672e+06/Digitizer.decimation;      % Sampling frequency CHANGED f
 Sampling.T=1/Sampling.Fs;                         % Sampling period (s)
 Sampling.L=2048/Digitizer.decimation;             % Length of signal CHANGED was 256
 t=(0:Sampling.L-1)*Sampling.T;                    % Time vector (s)
+%------------------------------------------------Backup-Information-----------------------------------------------------
 
 
 %% SIGNAL SEPARATION
@@ -35,7 +36,7 @@ load('...YOUR PATH OF RADAR DATA...');
 
 % FIR linear-phase filter
 smp_f=1/T_frame; % sampling
-cutoff_f=0.3; % cut-off frecuency %0.1
+cutoff_f=0.3; % cut-off frecuency
 blp_r=fir1(300,cutoff_f/(smp_f/2),'low');
 % filtering results
 rsig_lp=filtfilt(blp_r,1,VitalSig);
@@ -60,4 +61,5 @@ grid on
 xlabel('Time (s)')
 ylabel('Amplitude (mm)')
 title('Extracted cardiac signal')
+
 
