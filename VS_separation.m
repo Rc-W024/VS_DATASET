@@ -20,7 +20,7 @@ Radar.deltaf=3e9;                                 % Chirp slope bandwidth: 3 GHz
 
 %% Configuration
 %%%% Path to dataset
-dataPath='D:\UPC\THzRadar\DATASET\DATA FINAL\'; 
+dataPath='...YOUR PATH TO DATASET FOLDER...'; 
 
 %%%% Subject ID 
 subjID='VS05'; % VSXX - choose numbers from 01 to 24
@@ -86,4 +86,5 @@ plot(ECG.t_frame,ECGSig,'g');
 grid on
 xlabel('Time (s)')
 ylabel('ECG Amplitude')
+
 
