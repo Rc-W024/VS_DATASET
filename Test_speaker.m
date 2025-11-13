@@ -1,4 +1,4 @@
-%% Simulation for radar @UPC CommSensLab sub-millimeter
+%% Experiment for radar @UPC CommSensLab sub-millimeter
 %% displacement sensing validation with speaker
 % Copyright (C) 2025 WU Ruochen
 
@@ -149,4 +149,5 @@ plot(Radar.t_frame,VitSig);
 grid on
 xlabel('Time (s)')
 ylabel('Amplitude (mm)')
+
 
