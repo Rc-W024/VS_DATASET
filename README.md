@@ -35,7 +35,7 @@ The dataset contains measurements from 24 subjects, with a total of 4 minutes pe
 ### Code
 In this repository you can find the reference code used for the technical validation of breathing and cardiac signals sparation ([`VS_separation`](https://github.com/Rc-W024/VS_DATASET/blob/main/VS_separation.m)) and synchronization study ([`TechValidation`](https://github.com/Rc-W024/VS_DATASET/blob/main/TechValidation.m)). In addition, the script [`PlotVS`](https://github.com/Rc-W024/VS_DATASET/blob/main/PlotVS.m) for data visualization is also included in the repository which can be used by configuring the subject and/or scenarios which shall be viewed.
 
-In particular, this repository also contains the code for the validation of radar micro-motion sensing simulation part of the paper ([`Simulation_speaker`](https://github.com/Rc-W024/VS_DATASET/blob/main/Simulation_speaker.m)), which demonstrates the entire process from the raw beat tone signal to the target displacement signal extraction. The [raw data](https://github.com/Rc-W024/VS_DATASET/blob/main/Loudspeaker.bin)) acquired during the simulation is also included.
+In particular, this repository also contains the code for the validation of the radar micro-motion sensing simulation part in the paper ([`Simulation_speaker`](https://github.com/Rc-W024/VS_DATASET/blob/main/Simulation_speaker.m)), which demonstrates the entire process from the raw beat tone signal to the target displacement signal extraction. The [raw data](https://github.com/Rc-W024/VS_DATASET/blob/main/Loudspeaker.bin)) acquired during the simulation is also included.
 
 The code was written and tested using MATLAB R2024b for Microsoft Windows.
 
