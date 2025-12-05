@@ -6,6 +6,8 @@
 
 <img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 
+**A Dataset of 120 GHz Millimeter-Wave Radar Vital Signals With Synchronized Reference Recordings**
+
 **Link to the IEEE *DataPort* database:** [**A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**](https://doi.org/10.21227/wq68-sv85)
 
 ## Info
