@@ -41,7 +41,7 @@ In this repository you can find the reference code used for the technical valida
 
 In particular, this repository also contains the code for the validation of the radar micro-motion sensing part in the paper ([`Test_speaker`](https://github.com/Rc-W024/VS_DATASET/blob/main/Test_speaker.m)), which contains the entire process from the raw beat tone signal to the target displacement signal extraction. The [raw data](https://github.com/Rc-W024/VS_DATASET/blob/main/Loudspeaker.bin) acquired during the test measurement is also included.
 
-The code was written and tested using MATLAB R2024b for Microsoft Windows.
+The mmWave radar measured data were recorded by means of a high speed digitizer, which is managed by a **C++** based executable. The validation code was written and tested using **MATLAB** *R2024b* for Microsoft Windows.
 
 ## FYI
 ### Dataset citation
