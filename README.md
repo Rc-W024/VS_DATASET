@@ -1,17 +1,49 @@
-# Example Code for VitalSense Dataset Publication
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e60cada1-b487-44fa-8247-cfc7b7e7df9e" alt="VitalSense"/>
+
+# VitalSense - Example Code for mmWave Vital Signals Dataset
+**A Dataset of 120 GHz Millimeter-Wave Radar Vital Signals With Synchronized Reference Recordings**
+
 ![](https://skillicons.dev/icons?i=matlab)
 ![](https://skillicons.dev/icons?i=cpp)
 
-![](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99)
-![](https://img.shields.io/github/license/Rc-W024/VS_DATASET.svg)
+![](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat-square&color=BC4E99)
+![](https://img.shields.io/github/license/Rc-W024/VS_DATASET.svg?style=flat-square)
+![](https://img.shields.io/badge/GitHub-Rc--W024%2FVS_DATASET-24292F?logo=github&style=flat-square)
+![](https://img.shields.io/github/stars/Rc-W024/VS_DATASET?logo=github&label=Stars&color=F2C94C&style=flat-square)
 
-<img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
+[**Ruochen Wu**](https://futur.upc.edu/32247005) <sup>✉</sup>
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/> &nbsp; &nbsp;
+[Laura Miro](https://futur.upc.edu/37088913)
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>,
+<img src="https://github.com/user-attachments/assets/f4d75b89-1ad1-4081-a95a-a768955ab762" alt="HUGTiP" height="15"/>
+<img src="https://www.germanstrias.org/media/img/igtp-logo-cap-es.svg" alt="IGTP" height="15"/> &nbsp; &nbsp;
+[Albert Aguasca](https://futur.upc.edu/179522)
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/>
 
-**A Dataset of 120 GHz Millimeter-Wave Radar Vital Signals With Synchronized Reference Recordings** *(In Revision...)*
+Cosme Garcia
+<img src="https://github.com/user-attachments/assets/f4d75b89-1ad1-4081-a95a-a768955ab762" alt="HUGTiP" height="15"/> &nbsp; &nbsp;
+[Antoni Broquetas](https://futur.upc.edu/178234) <sup>✉</sup>
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/> &nbsp; &nbsp;
+[Montse Najar](https://futur.upc.edu/180118)
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/37327f0d-9aaf-4dbf-b161-d12715e94521" alt="SPCOM" height="15"/>
 
-**Link to the IEEE *DataPort* database:** [**A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**](https://doi.org/10.21227/wq68-sv85)
+&dagger;: These authors contributed equally: **Ruochen Wu**, Laura Miro.
 
-*Alternate access (Catalan Open Research Area. Repositori de Dades de Recerca)*: [10.34810/data2962](https://doi.org/10.34810/data2962)
+<img width="400" alt="MICIU" src="https://github.com/user-attachments/assets/4d84b669-d7b8-443b-8c18-0168e14cce47"/>
+
+---
+
+<img width=12% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
+
+**IEEE *DataPort* database:** [**A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**](https://doi.org/10.21227/wq68-sv85)
+
+**Catalan Open Research Area. Repositori de Dades de Recerca** *(Alternate access)*: [10.34810/data2962](https://doi.org/10.34810/data2962)
+</div>
 
 ## Info
 ### Dataset
@@ -60,4 +92,18 @@ The mmWave radar measured data were recorded by means of a high speed digitizer,
 ```
 
 ### Paper citation
-🚧 *Under Construction...* 🚧
+*Coming soon...*
+
+---
+
+### Contribution
+<div align="center">
+
+⭐️ **Thank you for your interest!** ⭐️
+
+[![](https://img.shields.io/badge/Issues-Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/Rc-W024/VS_DATASET/issues)
+
+[![](https://img.shields.io/github/stars/Rc-W024/VitalSense2024?style=social)](https://github.com/Rc-W024/VS_DATASET/stargazers)
+[![](https://img.shields.io/github/forks/Rc-W024/VitalSense2024?style=social)](https://github.com/Rc-W024/VS_DATASET/network/members)
+
+</div>
