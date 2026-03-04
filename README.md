@@ -42,7 +42,7 @@ Cosme Garcia
 
 **Catalan Open Research Area. Repositori de Dades de Recerca** *(Alternate access)*: [10.34810/data2962](https://doi.org/10.34810/data2962)
 
-<img width=12% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
+<img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 </div>
 
 ## Info
