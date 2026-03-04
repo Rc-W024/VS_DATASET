@@ -38,11 +38,11 @@ Cosme Garcia
 
 ---
 
-<img width=12% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
-
 **IEEE *DataPort* database:** [**A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**](https://doi.org/10.21227/wq68-sv85)
 
 **Catalan Open Research Area. Repositori de Dades de Recerca** *(Alternate access)*: [10.34810/data2962](https://doi.org/10.34810/data2962)
+
+<img width=12% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 </div>
 
 ## Info
@@ -79,6 +79,9 @@ In particular, this repository also contains the code for the validation of the 
 The mmWave radar measured data were recorded by means of a high speed digitizer, which is managed by a **C++** based executable. The validation code was written and tested using **MATLAB** *R2024b* for Microsoft Windows.
 
 ## FYI
+### Paper citation
+*Coming soon...*
+
 ### Dataset citation
 ```bibtex
 @data{wq68-sv85-25,
@@ -90,9 +93,6 @@ The mmWave radar measured data were recorded by means of a high speed digitizer,
   year={2025}
 }
 ```
-
-### Paper citation
-*Coming soon...*
 
 ---
 
