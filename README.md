@@ -25,7 +25,7 @@
 
 Cosme Garcia
 <img src="https://github.com/user-attachments/assets/f4d75b89-1ad1-4081-a95a-a768955ab762" alt="HUGTiP" height="15"/> &nbsp; &nbsp;
-[Antoni Broquetas](https://futur.upc.edu/178234) <sup>✉</sup>
+[Antoni Broquetas](https://futur.upc.edu/178234)
 <img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
 <img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/> &nbsp; &nbsp;
 [Montse Najar](https://futur.upc.edu/180118)
