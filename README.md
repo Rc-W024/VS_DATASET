@@ -104,7 +104,7 @@ The mmWave radar measured data were recorded by means of a high speed digitizer,
 
 [![](https://img.shields.io/badge/Issues-Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/Rc-W024/VS_DATASET/issues)
 
-[![](https://img.shields.io/github/stars/Rc-W024/VitalSense2024?style=social)](https://github.com/Rc-W024/VS_DATASET/stargazers)
-[![](https://img.shields.io/github/forks/Rc-W024/VitalSense2024?style=social)](https://github.com/Rc-W024/VS_DATASET/network/members)
+[![](https://img.shields.io/github/stars/Rc-W024/VS_DATASET?style=social)](https://github.com/Rc-W024/VS_DATASET/stargazers)
+[![](https://img.shields.io/github/forks/Rc-W024/VS_DATASET?style=social)](https://github.com/Rc-W024/VS_DATASET/network/members)
 
 </div>
