@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/GitHub-Rc--W024%2FVS_DATASET-24292F?logo=github&style=flat-square)
 ![](https://img.shields.io/github/stars/Rc-W024/VS_DATASET?logo=github&label=Stars&color=F2C94C&style=flat-square)
 
-[**Ruochen Wu**](https://futur.upc.edu/32247005) <sup>✉</sup>
+[**Ruochen Wu**](https://futur.upc.edu/32247005) <sup>✉,</sup> $^{\dagger}$
 <img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
 <img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/> &nbsp; &nbsp;
 [Laura Miro](https://futur.upc.edu/37088913)
@@ -33,7 +33,7 @@ Cosme Garcia
 <img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
 <img src="https://github.com/user-attachments/assets/37327f0d-9aaf-4dbf-b161-d12715e94521" alt="SPCOM" height="15"/>
 
-&dagger;: These authors contributed equally: **Ruochen Wu**, Laura Miro.
+$\dagger$: These authors contributed equally: **Ruochen Wu**, Laura Miro.
 
 <img width="400" alt="MICIU" src="https://github.com/user-attachments/assets/4d84b669-d7b8-443b-8c18-0168e14cce47"/>
 
