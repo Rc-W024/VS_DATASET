@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/e60cada1-b487-44fa-8247-cfc7b7e7df9e" alt="VitalSense"/>
 
 # VitalSense - Example Code for mmWave Vital Signals Dataset
-[**A Dataset of 120 GHz Millimeter-Wave Radar Vital Signals With Synchronized Reference Recordings**](https://doi.org/10.1038/s41597-026-07016-6)
+[**A Dataset of 120 GHz Millimeter-Wave Radar Vital Signals With Synchronized Reference Recordings**](https://doi.org/10.1038/s41597-026-07016-6) *(Coming soon...)*
 
 ![](https://skillicons.dev/icons?i=matlab)
 ![](https://skillicons.dev/icons?i=cpp)
