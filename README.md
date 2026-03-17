@@ -81,7 +81,15 @@ The mmWave radar measured data were recorded by means of a high speed digitizer,
 
 ## FYI
 ### Paper citation
-*Coming soon...*
+```bibtex
+@article{wu2026dataset,
+  title={A dataset of 120 GHz millimeter-wave radar vital signals with synchronized reference recordings},
+  author={Wu, Ruochen and Miro, Laura and Aguasca, Albert and Broquetas, Antoni and Garcia, Cosme and Najar, Montse},
+  journal={Scientific Data},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
+}
+```
 
 ### Dataset citation
 ```bibtex
