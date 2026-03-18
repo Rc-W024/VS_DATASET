@@ -46,7 +46,7 @@ $\dagger$: These authors contributed equally: **Ruochen Wu**, Laura Miro.
 <img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 </div>
 
-## Instraction
+## Instruction
 ### Dataset
 The file structure is
 ```
