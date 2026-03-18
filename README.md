@@ -46,6 +46,9 @@ $\dagger$: These authors contributed equally: **Ruochen Wu**, Laura Miro.
 <img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 </div>
 
+> [!IMPORTANT]
+> *The study was approved by the ethics committee of the Universitat Politècnica de Catalunya · BarcelonaTech (Identification code: 2024-028). Informed consent for participation and data sharing was obtained and signed in accordance with the ethical principles governing the study. All data have been fully anonymized, ensuring that no information can be traced back to individual participants.*
+
 ## Instruction
 ### Dataset
 The file structure is
