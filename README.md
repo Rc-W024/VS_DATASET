@@ -82,6 +82,12 @@ In particular, this repository also contains the code for the validation of the 
 
 The mmWave radar measured data were recorded by means of a high speed digitizer, which is managed by a **C++** based executable. The validation code was written and tested using **MATLAB** *R2024b* for Microsoft Windows.
 
+---
+
+> [!TIP]
+> To make the results more persuasive and interpretable, it is highly recommended to calculate RR and HR by applying the same processing methods to both the radar and reference signals, such as inter-beat interval (IBI) based calculation or spectrum based estimation, rather than directly comparing algorithm-derived results to the rate values outputed by the reference monitor, which may introduce algorithmic bias.
+> By using a "level playing field" approach ensures that any performance gaps are strictly due to the proposed algorithm itself and original signal quality, eliminating variables such as processing bias or algorithmic mismatch.
+
 ## FYI
 ### Paper citation
 ```bibtex
