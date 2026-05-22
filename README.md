@@ -95,6 +95,9 @@ The mmWave radar measured data were recorded by means of a high speed digitizer,
   title={A dataset of 120 GHz millimeter-wave radar vital signals with synchronized reference recordings},
   author={Wu, Ruochen and Miro, Laura and Aguasca, Albert and Broquetas, Antoni and Garcia, Cosme and Najar, Montse},
   journal={Scientific Data},
+  volume={13},
+  number={1},
+  pages={741},
   year={2026},
   publisher={Nature Publishing Group UK London}
 }
