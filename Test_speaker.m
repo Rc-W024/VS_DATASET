@@ -135,17 +135,16 @@ UnwrapUncorrected=plotPhasewu(Radar,Digitizer,Sampling,LocFinder,Spectrum,RMS_Am
 close(f)
 
 
-%% CARDIAC SIGNAL FILTERING
-% Vital signal filtering and extraction of heartbeat & respiration signal
-% original radar micro-motion signal extraction
+%% RAW SIGNAL EXTRACTION
+% Original radar micro-motion signal extraction
 for i=1:length(LocFinder.locs_positive)
     lineWithPeak=find(Sampling.f==LocFinder.locs_positive(i));
-    VitSig=1000*(Radar.lambda/(4*pi))*unwrap(angle(Spectrum(lineWithPeak,1:Digitizer.wfrm))-angle(Spectrum(lineWithPeak,1)));
+    RawSig=1000*(Radar.lambda/(4*pi))*unwrap(angle(Spectrum(lineWithPeak,1:Digitizer.wfrm))-angle(Spectrum(lineWithPeak,1)));
 end
 
 % Vital (displacement) signal plot
 figure('Name','MICRO-MOTION SIGNAL');
-plot(Radar.t_frame,VitSig);
+plot(Radar.t_frame,RawSig);
 grid on
 xlabel('Time (s)')
 ylabel('Amplitude (mm)')
