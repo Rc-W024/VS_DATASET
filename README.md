@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e60cada1-b487-44fa-8247-cfc7b7e7df9e" alt="VitalSense"/>
 
-# Example Code for mmWave Vital Signals Datasets
+# Example Code for mmWave Vital Signal Datasets
 
 ![](https://skillicons.dev/icons?i=matlab)
 ![](https://skillicons.dev/icons?i=cpp)
@@ -10,13 +10,19 @@
 ![](https://img.shields.io/github/license/Rc-W024/VS_DATASET.svg?style=flat-square)
 ![](https://img.shields.io/badge/GitHub-Rc--W024%2FVS_DATASET-24292F?logo=github&style=flat-square)
 ![](https://img.shields.io/github/stars/Rc-W024/VS_DATASET?logo=github&label=Stars&color=F2C94C&style=flat-square)
+</div>
 
 Contactless mmWave Radar System-on-Chip (RSoC) is a transformative technology for privacy-preserving, continuous health monitoring. This repository hosts two unique, high quality datasets collected using our **120 GHz FMCW RSoC**.
 
-Crucially, to support advanced clinical research and machine learning applications, the dataset comprises recordings from two distinct demographic cohorts:
-- **Healthy Control Group:** Baseline data establishing normal physiological and kinetic patterns.
-- **Patient Group:** Clinical data capturing specific anomalies and disease markers related to *[Insert specific disease/condition here, e.g., respiratory disorders / sleep apnea / gait abnormalities]*.
+To support advanced techniques R&D and IoMT applications, the dataset comprises recordings from two distinct cohorts:
+- **Healthy:** 24 subjects, Resting + Apnea (2-min for each recording)
 
+- **Patients:** 15 participants, clinical data capturing specific anomalies and disease markers (10-min for each recording)
+
+<div align="center">
+<img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
+<br>
+<br>
 <img width="400" alt="MICIU" src="https://github.com/user-attachments/assets/4d84b669-d7b8-443b-8c18-0168e14cce47"/>
 
 ---
@@ -24,14 +30,14 @@ Crucially, to support advanced clinical research and machine learning applicatio
 # HEALTHY COHORT
 [**A Dataset of 120 GHz Millimeter-Wave Radar Vital Signals With Synchronized Reference Recordings**](https://doi.org/10.1038/s41597-026-07016-6)
 
-[**Ruochen Wu**](https://futur.upc.edu/32247005) <sup>✉,</sup> $^{\dagger}$
+**Ruochen Wu** <sup>✉,</sup> $^{\dagger}$
 <img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
 <img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/> &nbsp; &nbsp;
 [Laura Miro](https://futur.upc.edu/37088913) $^{\dagger}$
 <img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
 <img src="https://github.com/user-attachments/assets/37327f0d-9aaf-4dbf-b161-d12715e94521" alt="SPCOM" height="15"/>,
-<img src="https://github.com/user-attachments/assets/f4d75b89-1ad1-4081-a95a-a768955ab762" alt="HUGTiP" height="15"/>
-<img src="https://www.germanstrias.org/media/img/igtp-logo-cap-es.svg" alt="IGTP" height="15"/> &nbsp; &nbsp;
+<img src="https://www.germanstrias.org/media/img/igtp-logo-cap-es.svg" alt="IGTP" height="15"/>,
+<img src="https://github.com/user-attachments/assets/f4d75b89-1ad1-4081-a95a-a768955ab762" alt="HUGTiP" height="15"/> &nbsp; &nbsp;
 [Albert Aguasca](https://futur.upc.edu/179522)
 <img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
 <img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/>
@@ -52,8 +58,6 @@ $\dagger$: These authors contributed equally: **Ruochen Wu**, Laura Miro.
 🔗 **IEEE *DataPort* database:** [**A New Dataset for Millimeter-Wave Radar Vital Sensing With Reference Signals**](https://doi.org/10.21227/wq68-sv85) 🔗
 
 **Catalan Open Research Area. Repositori de Dades de Recerca** *(Alternate access)*: [10.34810/data2962](https://doi.org/10.34810/data2962)
-
-<img width=15% alt="image" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Open_Access_logo_with_dark_text_for_contrast%2C_on_transparent_background.png"/>
 </div>
 
 > [!IMPORTANT]
@@ -127,7 +131,61 @@ The mmWave radar measured data were recorded by means of a high speed digitizer,
 
 ---
 
+<div align="center">
+
 # PATIENT COHORT
+**A clinical dataset of synchronized 120 GHz mmWave radar and reference vital sign recordings from cardiovascular inpatients**
+
+[Laura Miro](https://futur.upc.edu/37088913) <sup>✉</sup>
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/37327f0d-9aaf-4dbf-b161-d12715e94521" alt="SPCOM" height="15"/>,
+<img src="https://www.germanstrias.org/media/img/igtp-logo-cap-es.svg" alt="IGTP" height="15"/>,
+<img src="https://github.com/user-attachments/assets/f4d75b89-1ad1-4081-a95a-a768955ab762" alt="HUGTiP" height="15"/> &nbsp; &nbsp;
+**Ruochen Wu**
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/> &nbsp; &nbsp;
+[Albert Aguasca](https://futur.upc.edu/179522)
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/>
+[Montse Najar](https://futur.upc.edu/180118)
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/37327f0d-9aaf-4dbf-b161-d12715e94521" alt="SPCOM" height="15"/> &nbsp; &nbsp;
+
+[Antoni Broquetas](https://futur.upc.edu/178234)
+<img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
+<img src="https://github.com/user-attachments/assets/42faadef-7999-4130-a4fc-84a467b37e95" alt="CommSensLab" height="15"/> &nbsp; &nbsp;
+Oriol Estrada
+<img src="https://www.germanstrias.org/media/img/igtp-logo-cap-es.svg" alt="IGTP" height="15"/>,
+<img src="https://github.com/user-attachments/assets/f4d75b89-1ad1-4081-a95a-a768955ab762" alt="HUGTiP" height="15"/> &nbsp; &nbsp;
+Cosme Garcia
+<img src="https://github.com/user-attachments/assets/98709c48-0cef-46dc-ae95-68bb756a480f" alt="UAB" height="15"/>
+<img src="https://github.com/user-attachments/assets/f4d75b89-1ad1-4081-a95a-a768955ab762" alt="HUGTiP" height="15"/>,
+<img src="https://github.com/user-attachments/assets/c4ea5efc-2e8b-4faa-aa9a-b8ef8d9d98a2" alt="CIBERCV" height="15"/>
+
+---
+
+🔗 **figshare repository:** https://figshare.com/s/e056be5dd8bfee45dd6c 🔗
+</div>
+
+---
+
+## Instruction
+### Dataset
+*UNDER CONSTRUCTION*
+
+---
+
+### Code
+
+
+The mmWave radar measured data were recorded by means of a high speed digitizer, which was managed by a C++ based executable. The acquired signals were processed by MathWorks MATLAB *R2020b*.
+
+## FYI
+### Paper citation
+*COMING SOON...*
+
+### Dataset citation
+*COMING SOON...*
 
 ---
 
