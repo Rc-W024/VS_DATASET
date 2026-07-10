@@ -187,8 +187,6 @@ The mmWave radar measured data were recorded by means of a high speed digitizer,
 ### Dataset citation
 *COMING SOON...*
 
----
-
 ### Contribution
 <div align="center">
 
