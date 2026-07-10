@@ -12,7 +12,7 @@
 ![](https://img.shields.io/github/stars/Rc-W024/VS_DATASET?logo=github&label=Stars&color=F2C94C&style=flat-square)
 </div>
 
-Contactless mmWave Radar System-on-Chip (RSoC) is a transformative technology for privacy-preserving, continuous health monitoring. This repository hosts two unique, high quality datasets collected using our **120 GHz FMCW RSoC**.
+mmWave Radar System-on-Chip (RSoC) is a transformative technology for wireless, privacy-preserving, continuous vital sensing and smart healthcare monitoring. This repository hosts two unique, high quality datasets collected using our **120 GHz FMCW RSoC**.
 
 To support advanced techniques R&D and IoMT applications, the dataset comprises recordings from two distinct cohorts:
 - [**Healthy**](https://github.com/Rc-W024/VS_DATASET#healthy-cohort)**:** 24 subjects, Resting + Apnea (2-min for each recording)
