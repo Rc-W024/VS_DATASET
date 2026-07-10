@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e60cada1-b487-44fa-8247-cfc7b7e7df9e" alt="VitalSense"/>
 
-# Example Code for mmWave Vital Signals Dataset
-[**A Dataset of 120 GHz Millimeter-Wave Radar Vital Signals With Synchronized Reference Recordings**](https://doi.org/10.1038/s41597-026-07016-6)
+# Example Code for mmWave Vital Signals Datasets
 
 ![](https://skillicons.dev/icons?i=matlab)
 ![](https://skillicons.dev/icons?i=cpp)
@@ -11,6 +10,19 @@
 ![](https://img.shields.io/github/license/Rc-W024/VS_DATASET.svg?style=flat-square)
 ![](https://img.shields.io/badge/GitHub-Rc--W024%2FVS_DATASET-24292F?logo=github&style=flat-square)
 ![](https://img.shields.io/github/stars/Rc-W024/VS_DATASET?logo=github&label=Stars&color=F2C94C&style=flat-square)
+
+Contactless mmWave Radar System-on-Chip (RSoC) is a transformative technology for privacy-preserving, continuous health monitoring. This repository hosts two unique, high quality datasets collected using our **120 GHz FMCW RSoC**.
+
+Crucially, to support advanced clinical research and machine learning applications, the dataset comprises recordings from two distinct demographic cohorts:
+- **Healthy Control Group:** Baseline data establishing normal physiological and kinetic patterns.
+- **Patient Group:** Clinical data capturing specific anomalies and disease markers related to *[Insert specific disease/condition here, e.g., respiratory disorders / sleep apnea / gait abnormalities]*.
+
+<img width="400" alt="MICIU" src="https://github.com/user-attachments/assets/4d84b669-d7b8-443b-8c18-0168e14cce47"/>
+
+---
+
+# HEALTHY COHORT
+[**A Dataset of 120 GHz Millimeter-Wave Radar Vital Signals With Synchronized Reference Recordings**](https://doi.org/10.1038/s41597-026-07016-6)
 
 [**Ruochen Wu**](https://futur.upc.edu/32247005) <sup>✉,</sup> $^{\dagger}$
 <img src="https://github.com/user-attachments/assets/cacf370a-b89f-454b-a7b8-55c6d49d3ce8" alt="UPC" height="15"/>
@@ -34,8 +46,6 @@ Cosme Garcia
 <img src="https://github.com/user-attachments/assets/37327f0d-9aaf-4dbf-b161-d12715e94521" alt="SPCOM" height="15"/>
 
 $\dagger$: These authors contributed equally: **Ruochen Wu**, Laura Miro.
-
-<img width="400" alt="MICIU" src="https://github.com/user-attachments/assets/4d84b669-d7b8-443b-8c18-0168e14cce47"/>
 
 ---
 
@@ -114,6 +124,10 @@ The mmWave radar measured data were recorded by means of a high speed digitizer,
   year={2025}
 }
 ```
+
+---
+
+# PATIENT COHORT
 
 ---
 
