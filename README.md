@@ -25,6 +25,8 @@ To support advanced techniques R&D and IoMT applications, the dataset comprises 
 <br>
 <img width="400" alt="MICIU" src="https://github.com/user-attachments/assets/4d84b669-d7b8-443b-8c18-0168e14cce47"/>
 
+**Temporary version, continuously updated...**
+
 ---
 
 # HEALTHY COHORT
