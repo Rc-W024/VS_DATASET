@@ -165,6 +165,7 @@ Cosme Garcia
 <img src="https://github.com/user-attachments/assets/c4ea5efc-2e8b-4faa-aa9a-b8ef8d9d98a2" alt="CIBERCV" height="15"/>
 
 $\dagger$: These authors contributed equally: **Laura Miro**, Ruochen Wu.
+
 ---
 
 🔗 **figshare repository:** https://figshare.com/s/e056be5dd8bfee45dd6c 🔗
