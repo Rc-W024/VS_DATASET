@@ -26,13 +26,14 @@ To support advanced techniques R&D and IoMT applications, the dataset comprises 
 <img width="400" alt="MICIU" src="https://github.com/user-attachments/assets/4d84b669-d7b8-443b-8c18-0168e14cce47"/>
 </div>
 
+## Radar Validation Code
+This repository contains the code for the validation of the radar micro-motion sensing part ([`Test_speaker`](https://github.com/Rc-W024/VS_DATASET/blob/main/Test_speaker.m)), which contains the entire process from the raw beat tone signal to the target displacement signal extraction. The raw data (Loudspeaker) acquired during the test measurement is also included.
+
 ---
 
 > [!TIP]
 > To make the results more persuasive and interpretable, it is highly recommended to calculate RR and HR by applying the same processing methods to both the radar and reference signals, such as inter-beat interval (IBI) based calculation or spectrum based estimation, rather than directly comparing algorithm-derived results to the rate values outputed by the reference monitor, which may introduce algorithmic bias.
 > By using a "level playing field" approach ensures that any performance gaps are strictly due to the proposed algorithm itself and original signal quality, eliminating variables such as processing bias or algorithmic mismatch.
-
-<div align="center">
 
 ## Contribution
 <div align="center">
