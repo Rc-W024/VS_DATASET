@@ -43,10 +43,15 @@ $\dagger$: These authors contributed equally: **Laura Miro**, Ruochen Wu.
 ### Dataset
 *UNDER CONSTRUCTION*
 
+This dataset contains measurements from 15 clinical inpatients, with each participant undergoing multiple 10-minute observation sessions in uncontrolled, real-world scenarios. The radar data consists of raw *.bin* files, while the reference parameters are stored in *.mat* files directly readable in MATLAB. The total dataset size is approximately 87 GB.
+
+> [!NOTE]
+> During the measurements, patients may exhibit random movements, speaking, or emotional fluctuations, all of these situations have been documented.
+
 ---
 
 ### Code
-In this repository, we provide the [`VitalSig_HUGTiP`](https://github.com/Rc-W024/VS_DATASET/blob/main/VitalSig_HUGTiP.m) script to extract micro-motion displacement signals from raw radar data (.bin files). It contains two-channel signals, where Channel 1 and Channel 2 correspond to the radar-observed vital signal and the synchronously acquired ECG Lead II signal, respectively.
+In this repository, we provide the [`VitalSig_HUGTiP`](https://github.com/Rc-W024/VS_DATASET/blob/main/VitalSig_HUGTiP.m) script to extract micro-motion displacement signals from raw radar data (*.bin* files). It contains two-channel signals, where Channel 1 and Channel 2 correspond to the radar-observed vital signal and the synchronously acquired ECG Lead II signal, respectively.
 
 The mmWave radar measured data were recorded by means of a high speed digitizer, which was managed by a C++ based executable. The acquired signals were processed by MathWorks MATLAB *R2020b*.
 
