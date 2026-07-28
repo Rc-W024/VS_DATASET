@@ -46,6 +46,8 @@ $\dagger$: These authors contributed equally: **Laura Miro**, Ruochen Wu.
 ---
 
 ### Code
+In this repository, we provide the [`VitalSig_HUGTiP`](https://github.com/Rc-W024/VS_DATASET/blob/main/VitalSig_HUGTiP.m) script to extract micro-motion displacement signals from raw radar data (.bin files). It contains two-channel signals, where Channel 1 and Channel 2 correspond to the radar-observed vital signal and the synchronously acquired ECG Lead II signal, respectively.
+
 The mmWave radar measured data were recorded by means of a high speed digitizer, which was managed by a C++ based executable. The acquired signals were processed by MathWorks MATLAB *R2020b*.
 
 ## FYI
